@@ -2,7 +2,7 @@
 
 My name is Rath.
 My surename is quite very long, so I normally use
-$${\color{orange}color rathwjj}$$ 
+$${\color{orange}rathwjj}$$ 
 as my user name.
 You can call me <b><i>rath </b>or<b> rath-viggie</b></i>.
 
