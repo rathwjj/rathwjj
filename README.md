@@ -1,7 +1,7 @@
 ## Hi👋
 
 My name is Rath.
-My surename is quite very long, so I normally use <b>rathwjj</b> as my user name.
+My surename is quite very long, so I normally use <b> $${\color{red}Color rathwjj}$$ </b> as my user name.
 You can call me <b><i>rath </b>or<b> rath-viggie</b></i>.
 
 I am working normally in support and consult in computer network system and large-scale database.
