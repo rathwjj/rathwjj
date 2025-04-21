@@ -1,6 +1,6 @@
 ## Hi👋
 
-My name is <b><color=orange>Rath</color></b>.
+My name is <b><font color="orange">Rath</font></b>.
 My surename is quite very long, so I normally use <b>rathwjj</b> as my user name.
 You can call me <b><i>rath </b>or<b> rath-viggie</b></i>.
 
