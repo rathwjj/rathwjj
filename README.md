@@ -12,6 +12,7 @@ I am now interesting in "Artificial Intelligent" to co work with computer networ
 Services.
 
 http://www.gfxtm.com/services/
+
 Network Design Services for Smart Homes
 Database Design and Data Analytics Services
 Backup and Disaster Recovery Services
