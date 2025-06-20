@@ -7,14 +7,16 @@ as my user name.
 You can call me <b><i>rath </b>or<b> rath-viggie</b></i>.
 
 I am working normally in support and consult in computer network system and large-scale database.
-I am now interesting in "Artificial Intelligent" to co work with computer network and large-scale database.
+Now interesting in "Artificial Intelligent" to co work with computer network and large-scale database.
 
 Services.
 
 http://www.gfxtm.com/services/
 
 Network Design Services for Smart Homes
+
 Database Design and Data Analytics Services
+
 Backup and Disaster Recovery Services
 
 
