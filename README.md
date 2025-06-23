@@ -17,7 +17,7 @@ Currently, I'm exploring how **AI and smart automation** can enhance performance
 **See My Services**  
 [http://www.gfxtm.com/services/](http://www.gfxtm.com/services/)
 
-**Blog**
+**Blog**  
 [http://rathwjj.gfxtm.com](http://rathwjj.gfxtm.com)
 
 **Explore My Full Portfolio**  
