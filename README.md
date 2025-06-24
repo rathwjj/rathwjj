@@ -33,7 +33,7 @@ for my full portfolio please visit,
 
 Contact  
 [Signal](https://signal.link/call/#key=sckn-fccn-sztc-qcbk-srkz-nsbr-cgdp-xpdp)  
-[Telegram](t.me/rathwjj)  
+[Telegram](https://t.me/rathwjj)  
 
 <!--
 **rathwjj/rathwjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
