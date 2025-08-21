@@ -28,7 +28,7 @@ Currently, I'm exploring how **AI and smart automation** can enhance performance
 Feel free to connect or collaborate!
 
 for my full portfolio please visit, 
-[portfolio](https://onedrive.live.com/personal/c20e55f58b0681a0/_layouts/15/Doc.aspx?sourcedoc=%7B9a4d4f4c-3ac8-48af-98e1-203b6ea1ccba%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9jMjBlNTVmNThiMDY4MWEwL0VVeFBUWnJJT3E5SW1PRWdPMjZoekxvQjZ6RkFQMjdxcnphV1lITnFtbGp0ZVE_ZT13S1A1MVc&slrid=8411aaa1-20e4-8000-2208-d4879de1ed88&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9jMjBlNTVmNThiMDY4MWEwL0VVeFBUWnJJT3E5SW1PRWdPMjZoekxvQjZ6RkFQMjdxcnphV1lITnFtbGp0ZVE_cnRpbWU9Z2Y1MnlUU3czVWc&CID=a3a7657b-54a7-408b-bde2-dfc47115b916&_SRM=0:G:263)
+[portfolio](https://github.com/rathwjj/Experience)
 
 
 Contact  
