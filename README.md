@@ -25,9 +25,9 @@ Currently, I'm exploring how **AI and smart automation** can enhance performance
 Feel free to connect or collaborate!
 
 for my full portfolio please visit,   
-[portfolio](https://github.com/rathwjj/Experience)  
+[Portfolio](https://github.com/rathwjj/Experience)  
 [Certified](https://github.com/rathwjj/learned-skills)  
-[skills](https://github.com/rathwjj/Skillsets)  
+[Skills](https://github.com/rathwjj/Skillsets)  
 
 
 Contact  
