@@ -1,16 +1,8 @@
-# 👋 Hi, I'm Rath (a.k.a. rath wjj or rath-viggie)
-
-I'm an IT consultant and technical support specialist with extensive experience in **computer network systems**, **large-scale databases**, and now expanding into **Artificial Intelligence (AI)** and **Healthcare IT**.
-
-Currently, I'm exploring how **AI and smart automation** can enhance performance and resilience in **enterprise networks**, **data analytics**, and **cloud platforms**.
-
----
-
-## What I Do
-
-🔹 **Network Design** – for smart homes, business infrastructure, and secure systems  
-🔹 **Database Design & Data Analytics** – structured modeling and Power BI insights  
-🔹 **Backup & Disaster Recovery** – resilient, cloud-optimized data protection
+An Electrical Engineer obsessed with optimization: networks, databases, infrastructure, cloud, backup, home automation, and the occasional coding spree. An experienced tinkerer in power electronics, neurometrics, and security systems.  
+  
+I design large-scale networks that make Wi-Fi routers weep in inferiority, build mobile systems that don’t collapse under real users, and sneak efficiency into manufacturing with computer-aided solutions. Cloud and backup are my insurance policies: I’ve rescued more businesses from digital amnesia than anyone wants to admit.  
+  
+My career has touched just about: healthcare, airlines, travel agencies, restaurants, hotels, media, schools, and even auction systems. If you’re looking for someone who’s un-apologetically over-optimized and addicted to tinkering, you’ve found your hire.  
 
 ---
 
